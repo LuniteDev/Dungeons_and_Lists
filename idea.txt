@@ -1,0 +1,17 @@
+group by:
+- ready characters
+- playing
+- archived
+
+group by:
+- roles
+
+sort by:
+- most entries / least entries
+- A-Z / Z-A
+
+List all the characters -> DB (XAMPP)
+
+create the most important stuff (maybe with image and pdf upload)
+form stuff like main stats and other stuff gets calculated
+checkbox is profficiend, if yes, checkbox for double proffiecient
